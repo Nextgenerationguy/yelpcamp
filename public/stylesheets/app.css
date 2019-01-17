@@ -1,0 +1,12 @@
+.card img{
+    width: 100%;
+}
+
+.card{
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.card .caption-full{
+    padding: 9px
+}
